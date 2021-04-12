@@ -1,0 +1,10 @@
+1. Das Tetromino der Sorte 4 landet auf Position (5, 0).
+2. Das Tetromino der Sorte 0 landet auf Position (0, 0).
+3. Das Tetromino der Sorte 3 landet auf Position (4, 1).
+4. Das Tetromino der Sorte 2 landet auf Position (7, 2).
+5. Das Tetromino der Sorte 0 landet auf Position (3, 0).
+6. Das Tetromino der Sorte 0 landet auf Position (6, 2).
+7. Das Tetromino der Sorte 1 landet auf Position (8, 4).
+8. Das Tetromino der Sorte 4 landet auf Position (1, 3).
+9. Das Tetromino der Sorte 3 landet auf Position (3, 5).
+10. Das Tetromino der Sorte 2 landet auf Position (4, 6).

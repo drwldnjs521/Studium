@@ -1,0 +1,99 @@
+Auto 1:
+***********************************************
+    Hersteller : Hersteller1
+    Modell     : M0815
+    Baujahr    : 1999
+    Klimaanlage: ja
+    Erwerb     : 1999-12-01
+    Klasse     : Kombi
+***********************************************
+Auto 2:
+***********************************************
+    Hersteller : Hersteller3
+    Modell     : M0815
+    Baujahr    : 2001
+    Klimaanlage: ja
+    Erwerb     : 2001-02-01
+    Klasse     : Kombi
+***********************************************
+Auto 3:
+***********************************************
+    Hersteller : Hersteller1
+    Modell     : M0816
+    Baujahr    : 2014
+    Klimaanlage: ja
+    Erwerb     : 2015-03-01
+    Klasse     : Limousine
+***********************************************
+Auto 4:
+***********************************************
+    Hersteller : Hersteller2
+    Modell     : M0816
+    Baujahr    : 1984
+    Klimaanlage: nein
+    Erwerb     : 1997-05-01
+    Klasse     : Limousine
+***********************************************
+Auto 5:
+***********************************************
+    Hersteller : Hersteller1
+    Modell     : M0817
+    Baujahr    : 2015
+    Klimaanlage: ja
+    Erwerb     : 2015-04-01
+    Klasse     : Minivan
+***********************************************
+Auto 6:
+***********************************************
+    Hersteller : Hersteller1
+    Modell     : M0817
+    Baujahr    : 2003
+    Klimaanlage: nein
+    Erwerb     : 2020-01-01
+    Klasse     : Minivan
+***********************************************
+Auto 7:
+***********************************************
+    Hersteller : Hersteller3
+    Modell     : M1337
+    Baujahr    : 2019
+    Klimaanlage: ja
+    Erwerb     : 2019-06-30
+    Klasse     : Minivan
+***********************************************
+Auto 8:
+***********************************************
+    Hersteller : Hersteller2
+    Modell     : M4711
+    Baujahr    : 1992
+    Klimaanlage: ja
+    Erwerb     : 1993-02-02
+    Klasse     : Kleinwagen
+***********************************************
+Auto 9:
+***********************************************
+    Hersteller : Hersteller3
+    Modell     : M4711
+    Baujahr    : 1950
+    Klimaanlage: nein
+    Erwerb     : 2016-01-07
+    Klasse     : Kleinwagen
+***********************************************
+Auto 10:
+***********************************************
+    Hersteller : Hersteller1
+    Modell     : M0815
+    Baujahr    : 2004
+    Klimaanlage: ja
+    Erwerb     : 2005-01-01
+    Klasse     : Kombi
+***********************************************
+Das neuste Auto ist:
+***********************************************
+    Hersteller : Hersteller1
+    Modell     : M0817
+    Baujahr    : 2003
+    Klimaanlage: nein
+    Erwerb     : 2020-01-01
+    Klasse     : Minivan
+***********************************************

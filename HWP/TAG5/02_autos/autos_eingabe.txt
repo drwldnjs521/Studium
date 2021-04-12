@@ -1,0 +1,10 @@
+Hersteller1 M0815 1999 ja 01 12 1999 Kombi
+Hersteller3 M0815 2001 ja 1 2 2001 Kombi
+Hersteller1 M0816 2014 ja 1 3 2015 Limousine
+Hersteller2 M0816 1984 nein 1 5 1997 Limousine
+Hersteller1 M0817 2015 ja 1 4 2015 Minivan
+Hersteller1 M0817 2003 nein 1 1 2020 Minivan
+Hersteller3 M1337 2019 ja 30 6 2019 Minivan
+Hersteller2 M4711 1992 ja 2 2 1993 Kleinwagen
+Hersteller3 M4711 1950 nein 7 1 2016 Kleinwagen
+Hersteller1 M0815 2004 ja 1 1 2005 Kombi

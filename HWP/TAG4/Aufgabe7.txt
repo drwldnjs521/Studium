@@ -1,0 +1,4 @@
+Aufgabe7
+(a) rm *.o <filename>
+(b) clean:
+	rm *.o <filename>

@@ -1,0 +1,13 @@
+AUfgabe2
+(a) 
+-Präprozessorphase: Hierbei handelt es sich um eine Vorbereitung des zu übersetzenden Sourcecodes. Textmakros werden ersetzt, die so genannten include-Dateien eingesetzt, Kommentare gelöscht, die Zeilen immer durch ein Newline-Zeichen getrennt usw. Der Output dieser Phase ist ein reiner Sourcecode, der bislang noch keine Überprüfung oder Übersetzung erfahren hat.
+
+-Frontendphase des Compilers:Im Frontend des Compilers wird dieser Sourcecode eingelesen und überprüft .
+
+-Backendphase des Compilers:Im Backend des Compilers erfolgt das Einlesen des Zwischencodes (intermediate representation, IR), die Umsetzung in Assemblersprache einschließlich der maschinenspezifischen Optimierung und der Assemblerlauf. 
+
+-Linkerphase:Der Linker liest dann abschließend den Objektcode ein, dazu die angegebenen Standard- und spezifischen Bibliotheken, und fügt das zusammen. Output des Linkers ist ein ausführbarer Maschinencode (in einem File-format).
+
+(b)
+Auf Präprozessorphase wird diese Direktive verarbeitet, da Textmakros auf Präprozessorphase bearbeitet werden muss. Auf 2 Compilerphase wird es mit Sourcecode bearbeitet, die auf erste Phase generiert ist. Und auf Linkerphase wird mit Objektcode bearbeitet. 
+

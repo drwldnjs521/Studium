@@ -1,0 +1,15 @@
+==23019== Memcheck, a memory error detector
+==23019== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==23019== Using Valgrind-3.13.0 and LibVEX; rerun with -h for copyright info
+==23019== Command: ./tetrominos eingabe/20.txt valgrind/temporary_output.txt
+==23019== Parent PID: 22984
+==23019== 
+==23019== 
+==23019== HEAP SUMMARY:
+==23019==     in use at exit: 0 bytes in 0 blocks
+==23019==   total heap usage: 8 allocs, 8 frees, 18,168 bytes allocated
+==23019== 
+==23019== All heap blocks were freed -- no leaks are possible
+==23019== 
+==23019== For counts of detected and suppressed errors, rerun with: -v
+==23019== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)

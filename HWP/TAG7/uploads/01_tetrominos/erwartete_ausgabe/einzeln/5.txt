@@ -1,0 +1,5 @@
+1. Das Tetromino der Sorte 1 landet auf Position (0, 0).
+2. Das Tetromino der Sorte 2 landet auf Position (1, 2).
+3. Das Tetromino der Sorte 3 landet auf Position (2, 4).
+4. Das Tetromino der Sorte 1 landet auf Position (3, 5).
+5. Das Tetromino der Sorte 1 landet auf Position (8, 0).
